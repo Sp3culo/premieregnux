@@ -1,0 +1,26 @@
+#title_label {
+    margin-top: 20px;
+    font-size: 18pt;
+}
+               
+#subtitle_label {
+    color: #999999;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+               
+#install_button,
+#run_ae,
+#toggle_logs_button,
+#remove_aegnux_button,
+#kill_ae,
+#plugins_button,
+#wineprefix_button {
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#footer_label {
+    margin-bottom: 10px;
+}
